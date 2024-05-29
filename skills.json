@@ -1,1 +1,51 @@
-
+[
+    {
+      "name": "Java",
+      "icon": "java.png"
+    },
+    {
+      "name": "C",
+      "icon": "c.png"
+    },
+    {
+      "name": "MySQL",
+      "icon": "mysql.png"
+    },
+    {
+      "name": "MongoDB",
+      "icon": "mongoDB.png"
+    },
+    {
+      "name": "JavaScript",
+      "icon": "js.png"
+    },
+    {
+      "name": "HTML",
+      "icon": "html.png"
+    },
+    {
+      "name": "CSS",
+      "icon": "css.png"
+    },
+    {
+      "name": "Git",
+      "icon": "git.png"
+    },
+    {
+      "name": "Github",
+      "icon": "github.png"
+    },
+    {
+      "name": "Intellij",
+      "icon": "intellij.png"
+    },
+    {
+      "name": "Eclipse",
+      "icon": "eclipse.png"
+    },
+    {
+      "name": "VS Code",
+      "icon": "vscode.png"
+    }
+  ]
+  

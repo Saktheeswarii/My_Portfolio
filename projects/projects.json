@@ -1,1 +1,57 @@
+[
 
+    {
+      "name": "DevHome",
+      "desc": " DevHome revolutionizes housing with AR, offering immersive previews, precise cost estimates, and construction timelines, transforming expectations into tangible reality for futuristic residences.",
+      "image": "Devhome",
+       "stacks":"js,html,css,git,unity,blender",
+      "links": {
+        "view": "",
+        "code": ""
+      }
+    },
+    {
+      "name": "Car Rental System",
+      "desc": " A Java-based Car Rental System for managing car rentals and returns, featuring car and customer management, rental calculations, rental history tracking, and an interactive menu interface.",
+      "image": "carrent",
+      "stacks":"java,git,github,eclipse",
+      "links": {
+        "view": "https://github.com/Saktheeswarii/CarRentalSystem",
+        "code": "https://github.com/Saktheeswarii/CarRentalSystem"
+      }
+    },
+      {
+        "name": "MysticMaliHeaven",
+      "desc": " A HTML and CSS front page project capturing the essence of the Maldives with visually stunning design, showcasing its beauty through immersive and elegant visuals.",
+      "image": "maldives",
+       "stacks":"html,css,vscode,git",
+      "links": {
+        "view": "https://65f85598cdbd1682f9532416--amazing-naiad-73eb28.netlify.app/",
+        "code": "https://github.com/Saktheeswarii/MysticMaliHavens"
+      }
+       
+    },
+     {
+      "name": "AgeCalculator",
+      "desc": " The Age Calculator is a web app that calculates your age and days until your next birthday, providing instant, user-friendly results and helpful celebration reminders.",
+      "image": "age",
+       "stacks":"html,css,js,vscode,git",
+      "links": {
+        "view": "https://drive.google.com/file/d/1tqy_GtrtqsgwKkOZUHJw2idoBV6HBAnW/view",
+        "code": "https://github.com/Shubh2-0/Shopzilla-Online-Shopping-Platform.git"
+      }
+    },
+    {
+      "name": "Simple QuizApp",
+      "desc": " QuizApp is a responsive HTML, CSS, and JavaScript quiz application featuring multiple-choice questions and an automatic scoring system for a seamless cross-device user experience.",
+      "image": "quiz",
+       "stacks":"html,css,js,vscode,git",
+      "links": {
+        "view": "https://saktheeswarii.github.io/QuizApp/",
+        "code": "https://github.com/Saktheeswarii/QuizApp"
+      }
+    }
+  ]
+    
+  
+  
